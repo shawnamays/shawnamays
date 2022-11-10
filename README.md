@@ -4,8 +4,9 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/47pX7Dq/6841-A3-DD-E175-42-AB-B34-D-443-F379-C8-CD9.png" alt="6841-A3-DD-E175-42-AB-B34-D-443-F379-C8-CD9" border="0"></a><br />
 
 - 👋 Hi, I’m @shawnamays
+- ✨ My pronouns are she/they
 - 👀 I’m interested in video games, anime, IoT, Korean language, and crafting!
-- 🌱 I’m currently learning HTML5 & CSS, JavaScript
+- 🌱 I currently know HTML5 & CSS, JavaScript, Node.js, MongoDB, React
 - 💞️ I’m looking to collaborate on anything that can be of value to my portfolio of experience!
 - 📫 How to reach me: shawnadmays@gmail.com
 
