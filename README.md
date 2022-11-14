@@ -1,5 +1,9 @@
-### Hi there 👋, my name is Shawna
-![](https://i.ibb.co/47pX7Dq/6841-A3-DD-E175-42-AB-B34-D-443-F379-C8-CD9.png)
+
+
+###  <p align="center">Hi there 👋, my name is Shawna</center>
+
+<p align="center"> <img src="https://i.ibb.co/47pX7Dq/6841-A3-DD-E175-42-AB-B34-D-443-F379-C8-CD9.png"> </p>
+
 
 I'm a full-stack web developer by day, and rockstar by night.  I enjoy IoT, Gaming, and Cybersecurity.  Smart Tech makes everyone's lives easier, and I intend to help the world integrate it in ways that will change productivity and efficiency forever.
 
@@ -20,4 +24,5 @@ Skills: HTML | CSS | JAVASCRIPT | NODE.JS | MONGODB | REACT | EXPRESS
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shawnamays&show_icons=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shawnamays)  
+
 
