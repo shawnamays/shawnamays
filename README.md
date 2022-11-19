@@ -7,7 +7,7 @@
 
 I'm a full-stack web developer by day, and rockstar by night.  I enjoy IoT, Gaming, and Cybersecurity.  Smart Tech makes everyone's lives easier, and I intend to help the world integrate it in ways that will change productivity and efficiency forever.
 
-Skills: HTML | CSS | JAVASCRIPT | NODE.JS | MONGODB | REACT | EXPRESS
+Skills: HTML | CSS | JAVASCRIPT | NODE.JS | MONGODB | REACT | EXPRESS | CLOUDINARY
 
 - 🔭 I’m currently working on a fullstack application called "Brew Work" based in traditional medicine and healing. 
 - 🌱 I’m currently learning React 
