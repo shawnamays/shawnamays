@@ -38,6 +38,7 @@ Skills: HTML | CSS | JAVASCRIPT | NODE.JS | MONGODB | REACT | EXPRESS | CLOUDINA
 ### <p align="center"> Projects:
 
 BrewWork Full-Stack Traditional Medicine App | <a href="https://web-production-0d6f.up.railway.app/"> View Now</a> | Repo
+  <br>
 Unleashed Social Media App | View Now | <a href="https://github.com/shawnamays/UnleashedSocialApp"> Repo </a>
 <br>
 Latte Milk Boba Bar Ordering App | <a href ="https://web-production-7c07.up.railway.app/"> View Now </a> | <a href="https://github.com/shawnamays/Bubble-Tea-App"> Repo </a>
