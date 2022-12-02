@@ -43,8 +43,6 @@ Unleashed Social Media App | View Now | <a href="https://github.com/shawnamays/U
 <br>
 Latte Milk Boba Bar Ordering App | <a href ="https://web-production-7c07.up.railway.app/"> View Now </a> | <a href="https://github.com/shawnamays/Bubble-Tea-App"> Repo </a>
 <br>
-CoinFlip Game | View Now | <a href="https://github.com/shawnamays/coinFlipApp"> Repo</a>
-<br>
 K-Pop Bias Organizer | <a href="https://web-production-cfb7.up.railway.app/"> View Now </a>| <a href="https://github.com/shawnamays/Kpop-Bias-Tracker"> Repo </a>
 <br>
 Book of Shadows App | <a href="https://web-production-8acd.up.railway.app/">View Now</a> | <a href="https://github.com/shawnamays/spellbook-fullstack-auth"> Repo </a>
