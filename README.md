@@ -31,7 +31,8 @@ Skills: HTML | CSS | JAVASCRIPT | NODE.JS | MONGODB | REACT | EXPRESS | CLOUDINA
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shawnamays&theme=highcontrast&border_radius=5.6&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
-### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnamays)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnamays)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### <p align="center"> My Portfolio: <a href="https://www.shawnamays.net">Resides Here</a>
