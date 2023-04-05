@@ -29,8 +29,8 @@ Skills: HTML | CSS | JAVASCRIPT | NODE.JS | MONGODB | REACT | EXPRESS | CLOUDINA
 [<p align="center"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shawnamays)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shawnamays/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shawnamays888)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jazzy-pithivier-3ce9d2.netlify.app/)</p>
 
-[[GitHub Streak](https://streak-stats.demolab.com?user=Shawnamays&theme=highcontrast&border_radius=5.6&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnamays)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shawnamays&theme=highcontrast&border_radius=5.6&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawnamays)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### <p align="center"> My Portfolio: <a href="https://www.shawnamays.net">Resides Here</a>
